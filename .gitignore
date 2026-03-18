@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+myenv/
+env/
+venv/
+.venv
+.env
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.DS_Store
+vectorstore/
+*.sqlite3
+# Notebooks with hardcoded secrets - clean before adding
+email-generator.ipynb
+importing.ipynb
+tutorial-*.ipynb
